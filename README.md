@@ -1,14 +1,20 @@
 
 # Luke Yin's Website
 ## China
-### The historical structures in China
+### Hangzhou and Suzhou
+Hangzhou and Suzhou are cities in Eastern China, in very close proximity with Shanghai. They are both some of the most historical cities in China with hundreds of locations of Ancient buildings, canals, and places of history. During my last trip to China, these two cities were the ones I found most interesting to learn about.
 
-- Bulleted
-- List
+**Facts about Hangzhou**
+- Hangzhou is one of China's seven ancient capitals and was the capital of China during the Southern Song Dynasty
+- One of the most renowned attractions in Hangzhou is the Xihu lake(picture below) which is a UNESCO World Heritage Site
+- Hangzhou has been a major historical silk production hub and includes one of the largest silk museums in the world
+- Marco Polo described the city during his visit as the finest and most noble city in the world
+- Another UNESCO World Heritage Site, the Grand Canal, also runs through the city
 
-1. Numbered
-2. List
+**Facts about Suzhou**
+- f
+
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[More on Hangzhou](https://www.britannica.com/place/Hangzhou) [More on Suzhou](https://www.britannica.com/place/Suzhou)and ![Image](src)
