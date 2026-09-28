@@ -12,15 +12,15 @@ Hangzhou and Suzhou are cities in Eastern China, in very close proximity with Sh
 - Another UNESCO World Heritage Site, the Grand Canal, also runs through the city
 
 **Facts about Suzhou**
-- Suzhou is known for being the "Venice of the East" as it has vast networks of canals flowing throughout the city
+- Suzhou is known for being the _"Venice of the East"_ as it has vast networks of canals flowing throughout the city
 - The city is also along the UNESCO World Heritage Site of the Grand Canal
 - Suzhou is nearly 2500 years old, being founded during the state of Wu in 514 BC
-- 
+- The Classical Gardens of Suzhou, a group of 9 individual gardens, is the other UNESCO World Heritage Site in Suzhou
+- Tiger Hill is a famous local landmark in Suzhou featuring the leaning Yunyan Pagoda
 
 
-**Bold** and _Italic_ and `Code` text
 
 1. [More on Hangzhou](https://www.britannica.com/place/Hangzhou) 
-2. [More on Suzhou](https://www.britannica.com/place/Suzhou)and 
+2. [More on Suzhou](https://www.britannica.com/place/Suzhou)
 ![Water Town](WaterTown.jpeg) ![Xihu Lake](IMG_1140.jpeg)
 ![Canal](IMG_1164.jpeg)
