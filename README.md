@@ -20,8 +20,7 @@ Hangzhou and Suzhou are cities in Eastern China, in very close proximity with Sh
 
 **Bold** and _Italic_ and `Code` text
 
-[More on Hangzhou](https://www.britannica.com/place/Hangzhou) 
-[More on Suzhou](https://www.britannica.com/place/Suzhou)and 
-![Water Town](WaterTown.jpeg)
-![Xihu Lake](IMG_1140.jpeg)
+1. [More on Hangzhou](https://www.britannica.com/place/Hangzhou) 
+2. [More on Suzhou](https://www.britannica.com/place/Suzhou)and 
+![Water Town](WaterTown.jpeg) ![Xihu Lake](IMG_1140.jpeg)
 ![Canal](IMG_1164.jpeg)
