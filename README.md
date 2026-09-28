@@ -23,5 +23,5 @@ Hangzhou and Suzhou are cities in Eastern China, in very close proximity with Sh
 [More on Hangzhou](https://www.britannica.com/place/Hangzhou) 
 [More on Suzhou](https://www.britannica.com/place/Suzhou)and 
 ![Water Town](IMG_1178(1).jpeg)
-![Xihu Lake](IMG_1164.jpeg)
-![Canal](IMG_1140.jpeg)
+![Xihu Lake](IMG_1140.jpeg)
+![Canal](IMG_1164.jpeg)
