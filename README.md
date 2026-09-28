@@ -12,7 +12,10 @@ Hangzhou and Suzhou are cities in Eastern China, in very close proximity with Sh
 - Another UNESCO World Heritage Site, the Grand Canal, also runs through the city
 
 **Facts about Suzhou**
-- f
+- Suzhou is known for being the "Venice of the East" as it has vast networks of canals flowing throughout the city
+- The city is also along the UNESCO World Heritage Site of the Grand Canal
+- Suzhou is nearly 2500 years old, being founded during the state of Wu in 514 BC
+- 
 
 
 **Bold** and _Italic_ and `Code` text
@@ -21,3 +24,4 @@ Hangzhou and Suzhou are cities in Eastern China, in very close proximity with Sh
 [More on Suzhou](https://www.britannica.com/place/Suzhou)and 
 ![Water Town](image1.jpeg)
 ![Xihu Lake](Xihu.jpeg)
+![Canal]()
